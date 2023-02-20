@@ -1,8 +1,0 @@
-prefix=/home/armando/catkin_ws/devel
-
-Name: courseworks
-Description: Description of courseworks
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
