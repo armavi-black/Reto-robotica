@@ -18,10 +18,10 @@
 
 <picture>
   <source srcset="https://github.com/armavi-black/Roboreto/blob/main/Images/CH2_graph.png">
-  <img alt="Grafica Challenge 1" width="500" align="center">
+  <img alt="Grafica Challenge 2" width="500" align="center">
 </picture>
 
 <picture>
   <source srcset="https://github.com/armavi-black/Roboreto/blob/main/Images/CH2_Plot.png">
-  <img alt="Plot Challenge 1" width="500" align="center">
+  <img alt="Plot Challenge 2" width="500" align="center">
 </picture>
